@@ -8,7 +8,7 @@ version: ${project.version}
 author: Jonah Seguin
 website: jonahseguin.com & github.com/jonahseguin/Payload
 description: fail-safe asynchronous profile & object caching for spigot servers
-api-version: 1.12.2
+api-version: 1.16
 
 commands:
   payload:
